@@ -35,27 +35,27 @@ To improve operational performance and investigate product sales patterns in ord
 _______________________________________________________________________________________
 Dataset Information
 The dataset contains retail transactional data including:
-Column Name	       Description
+Column Name	       		Description
 
-order_id	       Unique order identifier
+order_id	       		Unique order identifier
 
-region	Sales         region
+region	Sales           region
 
-category	       Product category
+category	            Product category
 
-sales	Total         sales amount
+sales	Total           sales amount
 
-discount	       Discount provided
+discount	            Discount provided
 
-quantity	       Quantity sold
+quantity	            Quantity sold
 
-order_date	       Order placement date
+order_date	            Order placement date
 
-delivery_date	       Product delivery date
+delivery_date	        Product delivery date
 
-customer_type	       Customer segment
+customer_type	        Customer segment
 
-profit	Profit        earned
+profit	Profit          earned
 _______________________________________________________________________________________
 
 Project Highlights
@@ -71,13 +71,14 @@ Project Highlights
 •	Total Product Categories: 7
 ________________________________________________________________________________________
 Tools & Technologies Used
+
 Tool	              Purpose
 
 Excel	              Data Cleaning & Preprocessing
 
-Power BI	       Dashboard Development
+Power BI	          Dashboard Development
 
-SQL	              Data Querying & Analysis
+SQL	                  Data Querying & Analysis
 
 Canva	              Business Presentation
 
@@ -107,34 +108,30 @@ The dashboard tracks important business KPIs such as:
 •	Monthly Sales Trend
 ________________________________________________________________________________________
 Dashboard Features
-1.       Executive Dashboard
+1.  Executive Dashboard
 •	Overall business performance overview
 
 •	KPI summary cards
 
 •	Profit & sales trends
-
 2.       Regional Analysis
 •	Region-wise sales comparison
 
 •	Profitability by region
 
 •	Regional contribution analysis
-
 3.       Product Performance Analysis
 •	Top-performing products
 
 •	Low-performing products
 
 •	Category-wise sales distribution
-
 4.       Customer Insights
 •	Customer segmentation
 
 •	Purchase behavior analysis
 
 •	Order frequency analysis
-
 5.       Time-Series Analysis
 •	Monthly sales trends
 
@@ -143,6 +140,7 @@ Dashboard Features
 •	Profit trend forecasting
 ___________________________________________________________________________________________
 Business Insights
+
 Some major insights identified from the analysis:
 •	Western region contributes the highest sales revenue.
 
@@ -155,6 +153,7 @@ Some major insights identified from the analysis:
 •	Customer purchasing behavior varies across regions.
 _______________________________________________________________________________________
 Business Recommendations
+
 Based on the analysis, the following recommendations are suggested:
 
 1.	Reduce unnecessary discounting strategies.
@@ -170,26 +169,20 @@ ________________________________________________________________________________
 Project Workflow
 
 Data Collection
-
        ↓
        
 Data Cleaning
-
        ↓
        
 Data Transformation
-
        ↓
 KPI Calculation
-
        ↓
        
 Dashboard Development
-
        ↓
        
 Insight Generation
-
        ↓
        
 Business Recommendations
