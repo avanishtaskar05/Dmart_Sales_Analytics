@@ -40,27 +40,17 @@ Dataset Information
 
 The dataset contains retail transactional data including:
 
-Column Name	       			Description
-
-order_id	       			Unique order identifier
-
-region	Sales        	    region
-
-category	          	    Product category
-
-sales	Total         	    sales amount
-
-discount	                Discount provided
-
-quantity	                Quantity sold
-
-order_date	                Order placement date
-
-delivery_date	            Product delivery date
-
-customer_type	            Customer segment
-
-profit	Profit              earned
+Column Name	Description
+order_id	Unique order identifier
+region	Sales region
+category	Product category
+sales	Total sales amount
+discount	Discount provided
+quantity	Quantity sold
+order_date	Order placement date
+delivery_date	Product delivery date
+customer_type	Customer segment
+profit	Profit earned
 _______________________________________________________________________________________
 
 Project Highlights
@@ -77,18 +67,12 @@ Project Highlights
 ________________________________________________________________________________________
 Tools & Technologies Used
 
-Tool	              Purpose
-
-Excel	              Data Cleaning & Preprocessing
-
-Power BI	          Dashboard Development
-
-SQL	                  Data Querying & Analysis
-
-Canva	              Business Presentation
-
-GitHub	Version       Control & Portfolio
-
+Tool	Purpose
+Excel	Data Cleaning & Preprocessing
+Power BI	Dashboard Development
+SQL	Data Querying & Analysis
+Canva	Business Presentation
+GitHub	Version Control & Portfolio
 _______________________________________________________________________________________
 Key Performance Indicators (KPIs)
 
