@@ -18,6 +18,7 @@ This project demonstrates end-to-end business analytics workflow including:
 _______________________________________________________________________________________
 
 The dashboard helps management identify:
+
 •	High-performing regions
 
 •	Top-selling products
@@ -30,32 +31,36 @@ The dashboard helps management identify:
 
 _______________________________________________________________________________________
 Business Objective
+
 The primary objective of this project is:
+
 To improve operational performance and investigate product sales patterns in order to achieve higher financial success and better business decision-making.
 _______________________________________________________________________________________
 Dataset Information
+
 The dataset contains retail transactional data including:
-Column Name	       		Description
 
-order_id	       		Unique order identifier
+Column Name	       			Description
 
-region	Sales           region
+order_id	       			Unique order identifier
 
-category	            Product category
+region	Sales        	    region
 
-sales	Total           sales amount
+category	          	    Product category
 
-discount	            Discount provided
+sales	Total         	    sales amount
 
-quantity	            Quantity sold
+discount	                Discount provided
 
-order_date	            Order placement date
+quantity	                Quantity sold
 
-delivery_date	        Product delivery date
+order_date	                Order placement date
 
-customer_type	        Customer segment
+delivery_date	            Product delivery date
 
-profit	Profit          earned
+customer_type	            Customer segment
+
+profit	Profit              earned
 _______________________________________________________________________________________
 
 Project Highlights
@@ -186,4 +191,5 @@ Insight Generation
        ↓
        
 Business Recommendations
+
 
