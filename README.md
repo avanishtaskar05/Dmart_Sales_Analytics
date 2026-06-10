@@ -71,21 +71,23 @@ Project Highlights
 •	Total Product Categories: 7
 ________________________________________________________________________________________
 Tools & Technologies Used
-Tool	Purpose
+Tool	              Purpose
 
-Excel	Data Cleaning & Preprocessing
+Excel	              Data Cleaning & Preprocessing
 
-Power BI	Dashboard Development
+Power BI	       Dashboard Development
 
-SQL	Data Querying & Analysis
+SQL	              Data Querying & Analysis
 
-Canva	Business Presentation
+Canva	              Business Presentation
 
-GitHub	Version Control & Portfolio
+GitHub	Version       Control & Portfolio
 
 _______________________________________________________________________________________
 Key Performance Indicators (KPIs)
+
 The dashboard tracks important business KPIs such as:
+
 •	Total Sales
 
 •	Total Profit
@@ -154,28 +156,41 @@ Some major insights identified from the analysis:
 _______________________________________________________________________________________
 Business Recommendations
 Based on the analysis, the following recommendations are suggested:
+
 1.	Reduce unnecessary discounting strategies.
-2.	
-3.	Focus more on high-margin product categories.
-4.	
-5.	Improve operational performance in low-performing regions.
-6.	
-7.	Implement targeted marketing campaigns for customer retention.
-8.	
-9.	Optimize inventory planning using sales trends.
+	
+2.	Focus more on high-margin product categories.
+	
+3.	Improve operational performance in low-performing regions.
+	
+4.	Implement targeted marketing campaigns for customer retention.
+	
+5.	Optimize inventory planning using sales trends.
 _______________________________________________________________________________________
 Project Workflow
+
 Data Collection
+
        ↓
+       
 Data Cleaning
+
        ↓
+       
 Data Transformation
+
        ↓
 KPI Calculation
+
        ↓
+       
 Dashboard Development
+
        ↓
+       
 Insight Generation
+
        ↓
+       
 Business Recommendations
 
