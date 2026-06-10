@@ -5,17 +5,29 @@ The Dmart Sales Analytics Dashboard project focuses on analyzing retail sales pe
 
 This project demonstrates end-to-end business analytics workflow including:
 •	Data Cleaning
+
 •	Data Transformation
+
 •	KPI Analysis
+
 •	Business Intelligence Reporting
+
 •	Dashboard Storytelling
+
 •	Insight Generation
+_______________________________________________________________________________________
+
 The dashboard helps management identify:
 •	High-performing regions
+
 •	Top-selling products
+
 •	Profitability trends
+
 •	Discount impact on sales
+
 •	Customer purchasing patterns
+
 _______________________________________________________________________________________
 Business Objective
 The primary objective of this project is:
