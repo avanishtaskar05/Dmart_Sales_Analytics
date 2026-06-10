@@ -36,83 +36,133 @@ ________________________________________________________________________________
 Dataset Information
 The dataset contains retail transactional data including:
 Column Name	       Description
+
 order_id	       Unique order identifier
+
 region	Sales         region
+
 category	       Product category
+
 sales	Total         sales amount
+
 discount	       Discount provided
+
 quantity	       Quantity sold
+
 order_date	       Order placement date
+
 delivery_date	       Product delivery date
+
 customer_type	       Customer segment
+
 profit	Profit        earned
 _______________________________________________________________________________________
 
 Project Highlights
 
 •	Total Cities Covered: 6
+
 •	Total Regions: 4
+
 •	Maximum Sales: ₹2 Lakhs
+
 •	Maximum Profit: ₹1 Lakh
+
 •	Total Product Categories: 7
 ________________________________________________________________________________________
 Tools & Technologies Used
 Tool	Purpose
+
 Excel	Data Cleaning & Preprocessing
+
 Power BI	Dashboard Development
+
 SQL	Data Querying & Analysis
+
 Canva	Business Presentation
+
 GitHub	Version Control & Portfolio
+
 _______________________________________________________________________________________
 Key Performance Indicators (KPIs)
 The dashboard tracks important business KPIs such as:
 •	Total Sales
+
 •	Total Profit
+
 •	Profit Margin
+
 •	Average Discount
+
 •	Quantity Sold
+
 •	Region-wise Performance
+
 •	Product-wise Revenue
+
 •	Customer Type Analysis
+
 •	Monthly Sales Trend
 ________________________________________________________________________________________
 Dashboard Features
 1.       Executive Dashboard
 •	Overall business performance overview
+
 •	KPI summary cards
+
 •	Profit & sales trends
+
 2.       Regional Analysis
 •	Region-wise sales comparison
+
 •	Profitability by region
+
 •	Regional contribution analysis
+
 3.       Product Performance Analysis
 •	Top-performing products
+
 •	Low-performing products
+
 •	Category-wise sales distribution
+
 4.       Customer Insights
 •	Customer segmentation
+
 •	Purchase behavior analysis
+
 •	Order frequency analysis
+
 5.       Time-Series Analysis
 •	Monthly sales trends
+
 •	Seasonal sales analysis
+
 •	Profit trend forecasting
 ___________________________________________________________________________________________
 Business Insights
 Some major insights identified from the analysis:
 •	Western region contributes the highest sales revenue.
+
 •	Excessive discounting impacts profitability negatively.
+
 •	Certain products generate high revenue but low profit margins.
+
 •	Seasonal fluctuations impact monthly sales performance.
+
 •	Customer purchasing behavior varies across regions.
 _______________________________________________________________________________________
 Business Recommendations
 Based on the analysis, the following recommendations are suggested:
 1.	Reduce unnecessary discounting strategies.
-2.	Focus more on high-margin product categories.
-3.	Improve operational performance in low-performing regions.
-4.	Implement targeted marketing campaigns for customer retention.
-5.	Optimize inventory planning using sales trends.
+2.	
+3.	Focus more on high-margin product categories.
+4.	
+5.	Improve operational performance in low-performing regions.
+6.	
+7.	Implement targeted marketing campaigns for customer retention.
+8.	
+9.	Optimize inventory planning using sales trends.
 _______________________________________________________________________________________
 Project Workflow
 Data Collection
