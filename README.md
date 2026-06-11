@@ -168,21 +168,27 @@ ________________________________________________________________________________
 Project Workflow
 
 Data Collection
+
        ↓
        
 Data Cleaning
+
        ↓
        
 Data Transformation
+
        ↓
 	   
 KPI Calculation
+
        ↓
        
 Dashboard Development
+
        ↓
        
 Insight Generation
+
        ↓
        
 Business Recommendations
