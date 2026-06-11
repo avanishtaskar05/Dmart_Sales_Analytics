@@ -98,30 +98,35 @@ The dashboard tracks important business KPIs such as:
 ________________________________________________________________________________________
 Dashboard Features
 1.  Executive Dashboard
+
 •	Overall business performance overview
 
 •	KPI summary cards
 
 •	Profit & sales trends
 2.       Regional Analysis
+
 •	Region-wise sales comparison
 
 •	Profitability by region
 
 •	Regional contribution analysis
 3.       Product Performance Analysis
+
 •	Top-performing products
 
 •	Low-performing products
 
 •	Category-wise sales distribution
 4.       Customer Insights
+
 •	Customer segmentation
 
 •	Purchase behavior analysis
 
 •	Order frequency analysis
 5.       Time-Series Analysis
+
 •	Monthly sales trends
 
 •	Seasonal sales analysis
