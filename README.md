@@ -104,6 +104,7 @@ Dashboard Features
 •	KPI summary cards
 
 •	Profit & sales trends
+
 2.       Regional Analysis
 
 •	Region-wise sales comparison
@@ -111,6 +112,7 @@ Dashboard Features
 •	Profitability by region
 
 •	Regional contribution analysis
+
 3.       Product Performance Analysis
 
 •	Top-performing products
@@ -118,6 +120,7 @@ Dashboard Features
 •	Low-performing products
 
 •	Category-wise sales distribution
+
 4.       Customer Insights
 
 •	Customer segmentation
@@ -125,6 +128,7 @@ Dashboard Features
 •	Purchase behavior analysis
 
 •	Order frequency analysis
+
 5.       Time-Series Analysis
 
 •	Monthly sales trends
@@ -170,6 +174,7 @@ Data Cleaning
        
 Data Transformation
        ↓
+	   
 KPI Calculation
        ↓
        
